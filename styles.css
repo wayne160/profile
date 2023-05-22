@@ -1,0 +1,66 @@
+.navbar{
+    height:100px
+}
+
+.nav-item{
+    font-size: 20px;
+    padding-left: 50px
+}
+
+.box{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+    display:flex;
+}
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.center{
+    text-align: center;
+}
+
+.details{
+    flex-basis: 70%;
+}
+
+img{
+    flex-basis: 30%;
+}
+
+#about{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#season1{
+    background-color: lightyellow;
+}
+
+#season2{
+    background-color: lightcoral;
+}
+
+#season3{
+    background-color: lightgrey;
+}
+
+#season4{
+    background-color:lightblue
+}
+
+#season5{
+    background-color:lightgreen
+}
+
+img{
+    width:50px;
+    height:200px
+}
+
+body{
+    background-image: url('images/background.png');
+}
